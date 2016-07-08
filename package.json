@@ -1,0 +1,27 @@
+{
+  "name": "uwp-winjs-angular",
+  "version": "1.0.0",
+  "description": "This contains dependent node modules for UWP app",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://varung-optimus:optimus*1234@github.com/varung-optimus/uwp-winjs-angular.git"
+  },
+  "keywords": [
+    "uwp",
+    "angular",
+    "winjs"
+  ],
+  "author": "Optimus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varung-optimus/uwp-winjs-angular/issues"
+  },
+  "homepage": "https://github.com/varung-optimus/uwp-winjs-angular#readme",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
